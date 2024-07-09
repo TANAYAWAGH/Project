@@ -29,7 +29,7 @@ const CustomCard = ({ title, description, image,moreInfo }) => {
         <CardActions>
           <Button
             variant="contained"
-            sx={{ width: 250 }}
+            sx={{ width: 200 }}
             size="large"
             onClick={handleDialogOpen} // Open dialog on button click
           >
